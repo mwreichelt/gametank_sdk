@@ -22,6 +22,7 @@ EXPERIMENTAL: You can hopefully install cc65 and Zopfli into the SDK directory w
 
 * GNU Make
 
+* GNU Compiler Collection (gcc & g++)
 
 ## Testing requirements:
 
